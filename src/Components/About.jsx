@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "AI developer focused on building automation systems, voice agents, and scalable SaaS products.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I specialize in designing intelligent automation workflows, custom ERP systems, and AI-powered solutions for businesses. My long-term vision is to build advanced AI infrastructure products that redefine how software interacts with human workflows.";
 
 const About = () => {
   return (
