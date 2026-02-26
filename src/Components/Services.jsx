@@ -10,11 +10,19 @@ const Services = () => {
           modern businesses.
         </p>
 
-        <ul style={{ listStyle: "none", padding: 0 }}>
-          <li>• AI Voice Agents & Conversational Systems</li>
-          <li>• Custom ERP & Workflow Automation</li>
-          <li>• SaaS Product Development</li>
-          <li>• API Integrations & System Architecture</li>
+        <ul
+          style={{
+            listStyle: "none",
+            padding: 0,
+            marginTop: "20px",
+            lineHeight: "2",
+            fontWeight: "500",
+          }}
+        >
+          <li>AI Voice Agents & Conversational Systems</li>
+          <li>Custom ERP & Workflow Automation</li>
+          <li>SaaS Product Development</li>
+          <li>API Integrations & System Architecture</li>
         </ul>
       </div>
     </section>
